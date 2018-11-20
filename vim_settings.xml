@@ -6,20 +6,24 @@
       <file name="/Dummy.txt" timestamp="1542740336636">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/java-sample-master/src/main/java/com/microsoft/cognitiveservice/anomalydetection/Main.java" timestamp="1542749352389">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/anomaly/ebook_course/Machine Learning: End-to-End guide for Java developers/Title Name_Code/Module 2/MachineLearninginJava_Code/Code/MLJ-Chapter7/.classpath" timestamp="1542733701741">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/java_project/src/Main.java" timestamp="1542739849762" />
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
@@ -32,6 +36,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
